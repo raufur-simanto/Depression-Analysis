@@ -1,5 +1,5 @@
 # Depression Analysis using Machine Learning
-### Analysis a person's mental state as he is depressed or not using 20 features such as age, gender, relation-ship status, cope up with environment etc. These data are taken on daily basis. Our data set has 700+ data of a person.
+ Analysis a person's mental state as he is depressed or not using 20 features such as age, gender, relation-ship status, cope up with environment etc. These data are taken on daily basis. Our data set has 700+ data of a person.
 
 ### Used Algorithm
 1. Association rule Mining
